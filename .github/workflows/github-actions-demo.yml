@@ -35,6 +35,7 @@ jobs:
           plugin_languages_skipped: conan-center-index
           plugin_projects: yes
           plugin_isocalendar: yes
+<<<<<<< HEAD
 
   srock:
     runs-on: ubuntu-latest
@@ -48,3 +49,5 @@ jobs:
           plugin_stock: yes
           plugin_stock_token: ${{ secrets.STOCK_TOKEN }}
           plugin_stock_symbol: SPY
+=======
+>>>>>>> e511bcfee8bdf1d9ae4542914104e787568fdbaa
