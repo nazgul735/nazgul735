@@ -1,9 +1,6 @@
-![Hey there, I'm homo. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/nazgul735/nazgul735/raw/master/bio.gif)
+![Shre nazg golo grano. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/nazgul735/nazgul735/blob/main/bio.gif)
 
 <!--
-**CyrisXD/CyrisXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
