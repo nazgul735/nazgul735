@@ -1,0 +1,10 @@
+name: Price SPY
+uses: nazgul735/nazgul735@latest
+with:
+  filename: nazgul735.plugin.stock.svg
+  token: NOT_NEEDED
+  base: ""
+  plugin_stock: yes
+  plugin_stock_token: ${{ secrets.STOCK_TOKEN }}
+  plugin_stock_symbol: SPY
+
